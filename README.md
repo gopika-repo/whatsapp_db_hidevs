@@ -220,10 +220,6 @@ This project is licensed under the MIT License.
 - [Vercel](https://vercel.com/) - Deployment platform
 - [WhatsApp](https://www.whatsapp.com/) - Brand inspiration
 
-## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
-
----
 
 Built with ❤️ using Next.js 14+ and TypeScript
